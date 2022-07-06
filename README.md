@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khlmood
+- 👋 Hi, I’m Khalil
 - 👀 I’m interested in space and physics
 - 🌱 I’m currently learning advanced python
 - 💞️ I’m looking to collaborate on impactful projects(with C/C++)
-- 📫 DM me at 
+- 📫 DM me at khalilmod@outlook.com
 
 <!---
 khlmood/khlmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
