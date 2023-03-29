@@ -2,7 +2,7 @@
 - 👋 Hi there, I’m Khalil
 - 👀 I’m interested in space and physics
 - 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking to collaborate on impactful projects(with C, C++ or Python)
+- 💞️ I’m looking to collaborate on impactful projects
 - 📫 DM me at km404km@outlook.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
