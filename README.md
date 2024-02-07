@@ -1,7 +1,5 @@
-### :man_technologist: About Me :
-- 👋 Hi there, I’m Khalil
-- 👀 I'm interested in physics
-- 🌱 Currently learning Artificial intelligence
+### :man_technologist: Khalil :
+Just a guy looking to contribute to awesome projects, write performant code, understand memory, and ultimately craft really awesome software.
 - 📫 km404km@outlook.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -18,10 +16,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/63104422/178288469-ddb93ca9-5827-45b3-9cc7-450368984bea.svg" title="NeoVim" alt="NeoVim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" **alt="Scala" width="40" height="40"/>
 </div>
 <!---
 khlmood/khlmood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
